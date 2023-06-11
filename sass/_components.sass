@@ -1,0 +1,18 @@
+@use './_variables' as v
+
+.empty-button
+  width: 140px
+  height: 45px
+  color: v.$red
+  border: 1px solid v.$red
+  padding: 10px 20px
+  border-radius: 25px
+  margin-left: 20px
+  font-size: v.$button-font-size
+  font-weight: v.$button-font-weight
+  cursor: pointer
+  &:hover
+    transition: color 2.5s ease-in-out
+    transition: background-color 0.5s ease-in-out
+    background-color: v.$red
+    color: #fff
