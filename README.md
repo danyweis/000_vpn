@@ -1,7 +1,7 @@
 # VPN landing page
 
 Used in the project:
-- [x] HTML
+- [x] PHP
 - [x] Sass (.sass)
 - [x] Gulp
 - [x] Javascript

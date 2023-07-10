@@ -1,7 +1,7 @@
 {
   "name": "000_vpn",
   "version": "1.0.0",
-  "description": "Design => https://www.figma.com/file/FoED2KSVQPw0oJheNr6jBK/FREEBIES-Landingpage-LaslesVPN-(Community)?type=design&node-id=1%3A2&t=zMfWTmW8fzjSiPqB-1",
+  "description": "Used in the project:\r - [x] PHP\r - [x] Sass (.sass)\r - [x] Gulp\r - [x] Javascript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,6 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-sass": "^5.1.0",
-    "sass": "^1.62.1"
+    "sass": "^1.63.6"
   }
 }
